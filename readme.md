@@ -1,3 +1,5 @@
-# Dicee assignment
+Full Name: Tyrone Dizon
 
-From Tyrone Dizon
+Student ID: 0001058640
+
+Date Completed:  2018-11-19
